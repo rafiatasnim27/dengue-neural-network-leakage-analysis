@@ -33,11 +33,10 @@ blood-related features, and dengue test results.
 
 ## Models Used
 
-| Model | Purpose |
-| Logistic Regression | Simple interpretable baseline |
-| Random Forest | Nonlinear model and feature importance |
-| Neural Network | Keras/TensorFlow classification model |
-| Decision Tree | Leakage and rule-discovery analysis |
+1. Logistic Regression 
+2. Random Forest  
+3. Neural Network 
+4. Decision Tree 
 
 ## Neural Network Architecture
 
